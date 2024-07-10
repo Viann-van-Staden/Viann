@@ -1,6 +1,6 @@
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=squeenz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squeenz&size_weight=0.5&count_weight=0.5&theme=aura_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viann-van-staden&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viann-van-staden&size_weight=0.5&count_weight=0.5&theme=aura_dark"/>
 </div>
 
 <div align="left">
